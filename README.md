@@ -1,6 +1,9 @@
 # SmartBiz Booking & Ordering Engine
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FOlumidenana%2Fbiz-booking-engine)
+
 A production-ready booking and online ordering engine designed specifically for **Beauty Salons / Lash Techs** and **Food & Snack Vendors**.
+
 
 Connected with:
 - 💳 **Paystack**: Automatic deposit and full-amount card/transfer checkout (stops fake bank alert fraud).
